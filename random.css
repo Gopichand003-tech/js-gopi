@@ -1,0 +1,29 @@
+#mybtn{
+    padding: 5px 25px;
+    font-size: 5em;
+    border-radius: 250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: blueviolet;
+   background-color: black;
+}
+.labels{
+        font-size: 4em;
+    
+    }
+    .box{
+        width: 25%;
+        height: 100%;
+        border: 8px solid rgb(22, 1, 24);
+        padding: 20px;
+        line-height: 75px;
+        box-shadow: 50px 5px 50px rgba(116, 11, 67, 0.79);
+        background-color: beige;
+        border-radius: 10px;
+        
+    }
+    body{
+        text-align: center;
+        justify-content: center;
+    }
+    
+

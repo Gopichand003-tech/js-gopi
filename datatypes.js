@@ -3,7 +3,7 @@ bool = true/false
 string = ""
 bigint
 number = 2 to power 53
-null = standalone value
+null = stand alone value
 symbol=>unique
 
 
